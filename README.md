@@ -29,7 +29,7 @@ Docker images were - initially - splitted in two:
 
 Before building your own image, clone this repository
 ```
-git clone https://github.com/amaltaro/WMCore-Docker.git && cd wmcore_base
+git clone https://github.com/amaltaro/WMCore-Docker.git && cd WMCore-Docker/wmcore_base/
 ```
 
 then you can run a command like the one below in order to (re)build the WMCore base image:
